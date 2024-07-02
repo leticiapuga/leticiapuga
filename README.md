@@ -1,10 +1,14 @@
-## Olá, eu sou Letícia Puga! 😃
+## Olá, eu sou Letícia Puga! 👩🏽‍💻
 
-<p align="left"></p>
+<h2 align="left">Sobre mim 👩🏽 🧐</h2>
 
 ###
 
-<h3 align="left">Tecnologias 👩🏽‍💻</h3>
+<p align="left">- Estudante de Engenharia de Software (UFC - CE)<br>- Desenvolvedora Front-End<br><br>- Estudos Atuais:<br><br>- HTML5<br>- CSS3<br>- JavaScript</p>
+
+###
+
+<h3 align="left">Tecnologias 🔧</h3>
 
 ###
 
@@ -22,7 +26,7 @@
 
 ###
 
-<h3 align="left">Status do GitHub 💻</h3>
+<h3 align="left">Status do Github 💻</h3>
 
 ###
 
