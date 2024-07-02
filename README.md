@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">- Estudante de Engenharia de Software (UFC - CE)<br>- Desenvolvedora Front-End<br><br>- Estudos Atuais:<br><br>- HTML5<br>- CSS3<br>- JavaScript</p>
+<p align="left">- Estudante de Engenharia de Software (UFC - CE)<br>- Desenvolvedora Front-End<br><br>- Estudos Atuais:<br>- HTML5<br>- CSS3<br>- JavaScript</p>
 
 ###
 
