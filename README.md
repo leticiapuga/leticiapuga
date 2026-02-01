@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Estudante de Engenharia de Software (UFC)<br>- Desenvolvedora Front-End<br><br>- Estudos Atuais:<br>- JavaScript<br>- PostgreSQL</p>
+<p align="left">- Estudante de Engenharia de Software (UFC)<br>- Desenvolvedora Front-End<br><br>- 
 
 ###
 
