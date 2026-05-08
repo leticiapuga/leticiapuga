@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Estudante de Engenharia de Software (UFC)<br>- Desenvolvedora Front-End<br>
+<p align="left">- Estudante de Engenharia de Software (UFC)<br>- Desenvolvedora Full stack<br>
 
 ###
 
