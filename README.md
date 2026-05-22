@@ -12,14 +12,14 @@
 
 ## 👩🏽‍💻 Sobre mim
 
-Olá! Me chamo **Letícia Puga** e sou estudante de **Engenharia de Software na Universidade Federal do Ceará — UFC**.
+Olá! Me chamo **Letícia Puga** e sou estudante de **Engenharia de Software na Universidade Federal do Ceará - UFC**.
 
 Sou apaixonada por tecnologia, desenvolvimento de software e criação de soluções que unem lógica, criatividade e propósito.
 
-- 🎓 Estudante de Engenharia de Software — UFC
+- 🎓 Estudante de Engenharia de Software - UFC
 - 💻 Desenvolvedora Full Stack
 - 🚀 Em constante aprendizado
-- 🔎 Interesse em desenvolvimento web, banco de dados e qualidade de software
+- 🔎 Interesse em desenvolvimento web, especialmente frontend e desenvolvimento low code 
 - ✨ Gosto de transformar ideias em projetos funcionais
 
 ---
@@ -28,23 +28,12 @@ Sou apaixonada por tecnologia, desenvolvimento de software e criação de soluç
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,html,css,postgresql,python,java,c,git,github" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,postgresql,python,java,c,cs,git,github" />
 
 </div>
 
 ---
 
-## 📊 Status do GitHub
-
-<div align="center">
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=leticiapuga&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiapuga&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 📈 Gráfico de Atividades
 
