@@ -38,9 +38,9 @@ Sou apaixonada por tecnologia, desenvolvimento de software e criação de soluç
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=leticiapuga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=leticiapuga&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiapuga&layout=compact&theme=tokyonight&hide_border=true"/>
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiapuga&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -50,7 +50,7 @@ Sou apaixonada por tecnologia, desenvolvimento de software e criação de soluç
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leticiapuga&theme=tokyo-night&hide_border=true"/>
+![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=leticiapuga&theme=tokyo-night&hide_border=true)
 
 </div>
 
