@@ -28,7 +28,7 @@ Sou apaixonada por tecnologia, desenvolvimento de software e criação de soluç
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,postgresql,python,java,c,cs,git,github" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,postgresql,python,java,c,cs" />
 
 </div>
 
