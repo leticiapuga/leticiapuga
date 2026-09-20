@@ -2,9 +2,10 @@
 
 <div align="center">
 
-# Olá, eu sou Letícia Puga! 👩🏽‍💻
+# Olá, eu sou Letícia Puga 👩🏽‍💻
 
-### Estudante de Engenharia de Software | Desenvolvedora Full Stack
+### Estudante de Engenharia de Software - UFC
+### Desenvolvimento Web • Automação com n8n • IA Aplicada
 
 </div>
 
@@ -12,30 +13,55 @@
 
 ## 👩🏽‍💻 Sobre mim
 
-Olá! Me chamo **Letícia Puga** e sou estudante de **Engenharia de Software na Universidade Federal do Ceará - UFC**.
+Sou estudante de **Engenharia de Software na Universidade Federal do Ceará (UFC)**, atualmente em fase de conclusão da graduação.
 
-Sou apaixonada por tecnologia, desenvolvimento de software e criação de soluções que unem lógica, criatividade e propósito.
+Tenho experiência acadêmica e prática com **desenvolvimento web**, atuando em projetos com tecnologias front-end e back-end, além de atividades relacionadas à **documentação de software, APIs, requisitos e metodologias ágeis**.
 
-- 🎓 Estudante de Engenharia de Software - UFC
-- 💻 Desenvolvedora Full Stack
-- 🚀 Em constante aprendizado
-- 🔎 Interesse em desenvolvimento web, especialmente frontend e desenvolvimento low code 
-- ✨ Gosto de transformar ideias em projetos funcionais
+Atualmente, estou aprofundando meus conhecimentos em **automação de processos com n8n** e explorando aplicações de **Inteligência Artificial integradas ao desenvolvimento de software e à automação**.
+
+Também tenho interesse em atividades relacionadas a **suporte técnico e suporte ao usuário**, especialmente na investigação de problemas, identificação de possíveis causas e busca por soluções.
+
+Busco desenvolver soluções organizadas, funcionais e bem documentadas, enquanto continuo ampliando meus conhecimentos em diferentes áreas da tecnologia.
 
 ---
 
-## 🔧 Tecnologias
+## 💻 Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,postgresql,python,java,c,cs" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,postgresql,python,java,c,cs" />
 
 </div>
 
 ---
 
+## 🛠️ Ferramentas e conhecimentos
 
-## 📈 Gráfico de Atividades
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/n8n-Automação_de_Processos-8A2BE2?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST-APIs-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Swagger-Documentação_de_APIs-8A2BE2?style=for-the-badge&logo=swagger&logoColor=white"/>
+<img src="https://img.shields.io/badge/IA-Inteligência_Artificial-8A2BE2?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🎯 Atualmente estudando
+
+- ⚙️ **Automação de processos com n8n**
+- 🤖 **Inteligência Artificial aplicada**
+- 🌐 **Desenvolvimento Web**
+- 🔗 **APIs e integrações entre sistemas**
+
+---
+
+## 📊 Atividade no GitHub
 
 <div align="center">
 
@@ -45,7 +71,7 @@ Sou apaixonada por tecnologia, desenvolvimento de software e criação de soluç
 
 ---
 
-## 📫 Entre em contato comigo
+## 📫 Contato
 
 <div align="center">
 
@@ -54,20 +80,16 @@ Sou apaixonada por tecnologia, desenvolvimento de software e criação de soluç
 </a>
 
 <a href="mailto:SEU-EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/SEU-INSTAGRAM" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-✨ Obrigada por visitar meu perfil! ✨
+✨ Obrigada por visitar meu perfil!
 
 </div>
 
