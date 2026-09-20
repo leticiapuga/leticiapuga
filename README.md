@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Olá, eu sou Letícia Puga 👩🏽‍💻
+# Olá, eu sou Letícia Puga! 👩🏽‍💻
 
 ### Estudante de Engenharia de Software - UFC
 ### Desenvolvimento Web • Automação com n8n • IA Aplicada
@@ -21,7 +21,7 @@ Atualmente, estou aprofundando meus conhecimentos em **automação de processos 
 
 Também tenho interesse em atividades relacionadas a **suporte técnico e suporte ao usuário**, especialmente na investigação de problemas, identificação de possíveis causas e busca por soluções.
 
-Busco desenvolver soluções organizadas, funcionais e bem documentadas, enquanto continuo ampliando meus conhecimentos em diferentes áreas da tecnologia.
+Busco desenvolver soluções funcionais, organizadas e bem documentadas, enquanto continuo ampliando meus conhecimentos em diferentes áreas da tecnologia.
 
 ---
 
@@ -54,42 +54,38 @@ Busco desenvolver soluções organizadas, funcionais e bem documentadas, enquant
 
 ## 🎯 Atualmente estudando
 
-- ⚙️ **Automação de processos com n8n**
+- ⚙️ Automação de processos com **n8n**
 - 🤖 **Inteligência Artificial aplicada**
 - 🌐 **Desenvolvimento Web**
 - 🔗 **APIs e integrações entre sistemas**
 
 ---
 
-## 📊 Atividade no GitHub
+## 📫 Contatos
 
 <div align="center">
 
-![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=leticiapuga&theme=tokyo-night&hide_border=true)
+<a href="https://www.linkedin.com/in/let%C3%ADcia-puga-521ba2260/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Letícia_Puga-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:leticidemirandapuga@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Enviar_Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+📧 **E-mail:** leticidemirandapuga@gmail.com
 
 </div>
 
 ---
 
-## 📫 Contato
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 💜 Tecnologia, automação e desenvolvimento de soluções.
 
-<a href="mailto:SEU-EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-✨ Obrigada por visitar meu perfil!
+✨ Obrigada por visitar meu perfil! ✨
 
 </div>
 
